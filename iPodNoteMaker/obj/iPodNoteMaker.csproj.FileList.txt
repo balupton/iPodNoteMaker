@@ -1,0 +1,16 @@
+bin\Debug\iPodNoteMaker.exe
+bin\Debug\iPodNoteMaker.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\iPodNoteMaker.Form1.resources
+obj\Debug\iPodNoteMaker.Properties.Resources.resources
+obj\Debug\iPodNoteMaker.csproj.GenerateResource.Cache
+obj\Debug\iPodNoteMaker.exe
+obj\Debug\iPodNoteMaker.pdb
+bin\Release\iPodNoteMaker.exe
+bin\Release\iPodNoteMaker.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\iPodNoteMaker.Form1.resources
+obj\Release\iPodNoteMaker.Properties.Resources.resources
+obj\Release\iPodNoteMaker.csproj.GenerateResource.Cache
+obj\Release\iPodNoteMaker.exe
+obj\Release\iPodNoteMaker.pdb

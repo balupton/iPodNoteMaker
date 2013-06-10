@@ -1,0 +1,16 @@
+bin\Release\iPodToDoList.exe
+bin\Release\iPodToDoList.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\iPodNoteMaker.Form1.resources
+obj\Release\iPodToDoList.Properties.Resources.resources
+obj\Release\iPodToDoList.csproj.GenerateResource.Cache
+obj\Release\iPodToDoList.exe
+obj\Release\iPodToDoList.pdb
+bin\Debug\iPodToDoList.exe
+bin\Debug\iPodToDoList.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\iPodNoteMaker.Form1.resources
+obj\Debug\iPodToDoList.Properties.Resources.resources
+obj\Debug\iPodToDoList.csproj.GenerateResource.Cache
+obj\Debug\iPodToDoList.exe
+obj\Debug\iPodToDoList.pdb
